@@ -17,7 +17,7 @@ To run this web application, the following command must be run:
 Then you have to connect to your local serer : **http://127.0.0.1:5000/**
 
 You will see the following page:
-![Interface](images/interface.png)
+![Interface](interface.png)
 
 * In the first text field, you must write the path to the *millenium-falcon.json* file (for example: C:/Users/Mathieu Pichon/inputs/millenium-falcon.json)
 
